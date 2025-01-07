@@ -16,10 +16,8 @@ function App() {
         >
           Learn React
           master abc
-          main update
-          fiture test 2
 
-          new feature
+          feature2 test
         </a>
       </header>
     </div>
