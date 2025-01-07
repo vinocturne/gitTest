@@ -10,6 +10,7 @@ function App() {
         </p>
         delete
         merge
+        mergetest
       </header>
     </div>
   );
